@@ -81,7 +81,7 @@ Visualização gráfica da execução na linha do tempo, com marcações para:
 
 Se quiser trocar uma ideia ou entender melhor o projeto:
 
---[🔗 LnkedIn](https://www.linkedin.com/in/daviteramoto/)
----[🔗 LnkedIn](https://www.linkedin.com/in/gustavo-henrique-portari-300b05205/)
----[🔗 LnkedIn](https://www.linkedin.com/in/jo%C3%A3o-vitor-antunes-nascimento/)
----[🔗 LnkedIn](https://www.linkedin.com/in/leonardo-rodrigues-471a611b8/)
+--[🔗 Davi](https://www.linkedin.com/in/daviteramoto/)
+---[🔗 Gustavo](https://www.linkedin.com/in/gustavo-henrique-portari-300b05205/)
+---[🔗 João](https://www.linkedin.com/in/jo%C3%A3o-vitor-antunes-nascimento/)
+---[🔗 Leonardo](https://www.linkedin.com/in/leonardo-rodrigues-471a611b8/)
